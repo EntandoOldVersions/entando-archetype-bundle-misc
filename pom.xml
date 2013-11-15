@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>org.entando.entando</groupId>
 	<artifactId>entando-archetype-bundle-misc</artifactId>
-	<version>4.0.0</version>
+	<version>4.0.1-SNAPSHOT</version>
 	<packaging>maven-archetype</packaging>
 	<name>Entando: Archetype for Generic Misc Bundle</name>
 	<description>Generic Misc Bundle Archetype for Entando.</description>
@@ -24,7 +24,7 @@
 		<connection>scm:git:git://github.com/entando/entando-archetype-bundle-misc.git</connection>
 		<developerConnection>scm:git:git@github.com:entando/entando-archetype-bundle-misc.git</developerConnection>
 		<url>https://github.com/entando/entando-archetype-bundle-misc</url>
-	  <tag>v4.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<developers>
 		<developer>
